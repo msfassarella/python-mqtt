@@ -19,7 +19,8 @@ from myTimerClass import IntervalRunner
 #definicoes: 
 #Broker = "iot.eclipse.org"
 #Broker = "m2m.eclipse.org"
-Broker = "mqtt.de.vix.br"
+#Broker = "mqtt.de.vix.br"
+Broker = "broker.hivemq.com"
 PortaBroker = 1883
 KeepAliveBroker = 20
 TopicoSubscribe = "topicoSubscribe" 
